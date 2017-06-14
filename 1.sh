@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mkdir yourdirectory
-cd /to/your/directory
+mkdir collection
+cd collection
 #number of file you want to make
-touch filename{1..n}
+touch hello{1..100}
